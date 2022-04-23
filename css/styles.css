@@ -23,9 +23,9 @@ h3 {
 
 .top-container {
   background-image: url("https://i.ibb.co/k5R0cSP/background.png");
-  background-size: cover;
+  background-size: contain;
   position: relative;
-  padding: 280px;
+  padding: 300px;
 }
 
 hr {
