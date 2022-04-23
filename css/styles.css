@@ -22,7 +22,7 @@ h3 {
 }
 
 .top-container {
-  background-image: url(/images/background.png);
+  background-image: url(images/background.png);
   background-size: cover;
   position: relative;
   padding: 280px;
