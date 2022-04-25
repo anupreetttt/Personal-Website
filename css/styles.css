@@ -6,14 +6,14 @@ body {
 }
 
 h1 {
-  color: #66BFBF;
+  color: #008080;
   font-size: 4.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  color: #66BFBF;
+  color: #008080;
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   font-weight: normal;
@@ -21,7 +21,7 @@ h2 {
 }
 
 h3 {
-  color: #11999E;
+  color: #008080;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -65,14 +65,37 @@ a:hover {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
+.projects{
+  margin: 100px;
+  border-radius: 30px;
+  padding: 100px 0;
+  background-color: skyblue;
 
+}
+.aboutme{
+  margin: 100px;
+  border-radius: 30px;
+  padding: 50px 0;
+  background-color: skyblue;
+
+}
+.para{
+  text-align: left;
+  padding: 0px 40px;
+}
+.projname{
+  text-align: left;
+  font-size: 20px;
+  padding-left: 20px;
+  text-decoration: underline;
+}
 .profpic {
   width: 200px;
   height: 200px;
 }
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 50px auto;
   text-align: left;
 }
 
@@ -81,7 +104,7 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  width: 70%;
   margin: auto;
 }
 
