@@ -53,6 +53,7 @@ a:hover {
   background-size: cover;
   position: relative;
   padding-top: 100px;
+  padding-bottom: 300px;
 }
 
 .middle-container {
@@ -94,7 +95,7 @@ a:hover {
   padding: 20px 0;
 }
 
-.top-cloud {
+/* .top-cloud {
   position: absolute;
   right: 300px;
   top: 40px;
@@ -104,7 +105,7 @@ a:hover {
   position: absolute;
   left: 250px;
   bottom: 300px;
-}
+} */
 
 .code-img {
   width: 25%;
@@ -112,7 +113,7 @@ a:hover {
   margin-right: 30px;
 }
 
-.chilli-img {
+.chess-img {
   width: 25%;
   float: right;
   margin-left: 30px;
