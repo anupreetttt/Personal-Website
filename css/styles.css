@@ -1,6 +1,6 @@
 body {
   color: #40514E;
-  background-color: #c6faf0;
+  background-color: #121212;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -8,14 +8,14 @@ body {
 
 
 h1 {
-  color: #008080;
+  color: #711A75;
   font-size: 4.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  color: #008080;
+  color: #F10086;
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   font-weight: normal;
@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-  color: #008080;
+  color: #F582A7;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -39,7 +39,7 @@ hr {
 }
 
 a{
-  color: #11999E;
+  color: #711A75;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -55,7 +55,7 @@ bcolor {
 
 .top-container {
   background-color: #E4F9F5;
-  background-image: url("https://i.ibb.co/CK8WTC3/background.png");
+  background-image: url("https://i.ibb.co/2j97DBq/darkbg1.png");
   background-size: cover;
   position: relative;
   padding-top: 100px;
@@ -75,14 +75,14 @@ bcolor {
   margin: 100px;
   border-radius: 30px;
   padding: 100px 0;
-  background-color: skyblue;
+  background-color: #F582A7;
 
 }
 .aboutme{
   margin: 100px;
   border-radius: 30px;
   padding: 50px 0;
-  background-color: skyblue;
+  background-color: #F582A7;
 
 }
 .para{
